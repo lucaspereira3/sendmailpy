@@ -135,4 +135,4 @@ Contribuições são bem-vindas!
 
 ## 👤 Autor
 
-Feito com 💻 por [Rafael Moreira](https://github.com/rafaelmoreirax)
+Feito com 💻 por [Rafael Moreira](https://github.com/lucaspereira3)
